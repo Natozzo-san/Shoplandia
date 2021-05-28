@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gpsDemo7</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="google_maps_key">AIzaSyA8SeD4UVO3cFNCUKJUD5RpHbVyUbYHDRU</string>
+    <string name="title">Shoplandia</string>
+</resources>

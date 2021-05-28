@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "291045677430",
+    "project_id": "gpsdemo7-84193",
+    "storage_bucket": "gpsdemo7-84193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291045677430:android:5d201a98479fc6ffdb8257",
+        "android_client_info": {
+          "package_name": "com.natozzo_san.gpsdemo7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291045677430-cma3ah29jlum94lhc9eusiku4v4u8e06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfM_lGLBomdhauY59TOOVtH9vV6Cd_eRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291045677430-cma3ah29jlum94lhc9eusiku4v4u8e06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
